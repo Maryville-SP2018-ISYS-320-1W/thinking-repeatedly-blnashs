@@ -17,4 +17,4 @@ public class P5_OddStuff {
 }
 
 
-// 3. Were you correct? Explain any differences and what you learned.
+// 3. Were you correct? Yes  Explain any differences and what you learned.
